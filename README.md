@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HernandoDuarte
-- 👀 I’m interested in data analysis, and data science
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning the basics, html and css
 - 💞️ I’m looking to collaborate on with everyone
 - 📫 You can reach me at my email, nandojose73@hotmail.com
 
